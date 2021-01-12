@@ -13,4 +13,4 @@ I am Himanshu Singh Chauhan, I am a programmer and entrepreneur, I am running Bo
 
 
 ### Check my Organization
-<a href="htts://www.boticly.org">Boticly</a>
+[Boticly](https://www.boticly.org)

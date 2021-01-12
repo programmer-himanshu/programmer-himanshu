@@ -12,5 +12,5 @@ I am Himanshu Singh Chauhan, I am a programmer and entrepreneur, I am running Bo
 </ul>
 
 
-# Check my Organization
-<a href="htts://www.boticly.org"><button>Boticly</button></a>
+### Check my Organization
+<a href="htts://www.boticly.org">Boticly</a>

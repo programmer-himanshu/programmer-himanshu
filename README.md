@@ -6,7 +6,6 @@ I am a programmer and entrepreneur, I am running Boticly Organization.
 <ul>
   <li>C</li>
   <li>C++</li>
-  <li>Java</li>
   <li>JavaScript</li>
   <li>Python</li>
 </ul>

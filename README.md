@@ -1,7 +1,6 @@
-# Hello there 😃
+# Programmer Himanshu 😃
 
-I am Himanshu Singh Chauhan, I am a programmer and entrepreneur, I am running Boticly Organization.
-
+I am a programmer and entrepreneur, I am running Boticly Organization.
 <b>My Favourite Languages</b>
 <ul>
   <li>C</li>

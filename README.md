@@ -15,5 +15,5 @@ I am a programmer and entrepreneur, I am running Boticly Organization.
 ### Check my Organization
 <p align="center">
  <img src="boticly.png" alt="boticly" width="35%"/><br/>
-[Boticly](https://www.boticly.org)
+  <a href="https://boticly.org">Boticly</a>
   </p>

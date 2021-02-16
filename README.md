@@ -9,10 +9,3 @@ I am a programmer and entrepreneur, I am running Boticly Organization.
   <li>JavaScript</li>
   <li>Python</li>
 </ul>
-
-
-### Check my Organization
-<p align="center">
- <img src="boticly.png" alt="boticly" width="35%"/><br/>
-  <a href="https://boticly.org">Boticly</a>
-  </p>

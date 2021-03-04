@@ -1,4 +1,4 @@
-# Programmer Himanshu 😃
+# Coder Himanshu 😃
 
 I am a programmer and entrepreneur, I am running Boticly Organization.
 <br/>
